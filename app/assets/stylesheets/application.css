@@ -13,3 +13,44 @@
  *= require_tree .
  *= require_self
  */
+ .italic{
+  font-style: italic;
+  padding-top: 2px;
+ }
+
+ .him{
+  background-color: lightgoldenrodyellow;
+  padding: 10px;
+  border-left: 10px solid lightgrey;
+  margin: 15px;
+ }
+
+ .you{
+  padding: 10px;
+  border-left: 10px solid lightgrey;
+  margin: 15px;
+ }
+
+ .link{
+  text-decoration: none;
+  padding: 10px;
+ }
+
+ .form{
+  padding: 10px;
+ }
+
+.button{
+  background-color: dodgerblue;
+  color: white;
+  border-radius: 5px;
+  height: 50px;
+  width: 80px;
+  position:absolute; right:755px;
+}
+
+.input{
+  border-radius: 5px;
+  height: 50px;
+  width: 500px;
+}
